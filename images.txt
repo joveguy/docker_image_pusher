@@ -1,1 +1,1 @@
-node:18-alpine
+redis:alpine3.20
