@@ -1,1 +1,1 @@
-gcr.io/cadvisor/cadvisor
+docker pull gitlab/gitlab-ce
