@@ -1,1 +1,1 @@
-docker pull gitlab/gitlab-ce
+gitlab/gitlab-ce
