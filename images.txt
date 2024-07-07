@@ -1,1 +1,2 @@
-gitlab/gitlab-ce
+sonarqube:9.9-community
+postgres
