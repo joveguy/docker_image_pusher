@@ -1,2 +1,1 @@
-sonarqube:9.9-community
-postgres
+goharbor/prepare:v2.11.0
