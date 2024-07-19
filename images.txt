@@ -1,1 +1,1 @@
-jenkins/jenkins:2.452.2-lts
+calico/cni:v3.28.0
