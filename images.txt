@@ -1,1 +1,1 @@
-kong:3.6
+nginx/nginx-ingress:3.6.1
